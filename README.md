@@ -33,3 +33,6 @@ state = {
 
 Video: https://youtu.be/ns94sRvzjt4?list=PLGyA74h_S9No5V5TRjHc893mN7rs-VaoZ 
 
+
+
+Web App Link: https://aaronsiim.github.io/flashtype 
