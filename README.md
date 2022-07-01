@@ -16,6 +16,7 @@ state = {
 # Algorithms 
 
 /**
+         * youtu.be/ns94sRvzjt4?list=PLGyA74h_S9No5V5TRjHc893mN7rs-VaoZ 
          * 1. Handle the underflow case - all characters should be shown as not-attempted
          * 2. Handle the overflow case - early exit
          * 3. Handle the backspace case
@@ -31,7 +32,7 @@ state = {
          * 5. Irrespective of the case, characters, words and wpm can be updated
 */
 
-Video: https://youtu.be/ns94sRvzjt4?list=PLGyA74h_S9No5V5TRjHc893mN7rs-VaoZ 
+
 
 
 
