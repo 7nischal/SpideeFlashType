@@ -36,3 +36,12 @@
     transition: background-color 0.2s;
 }
 
+.start-again-btn {
+    background: #3e4248;
+}
+
+.start-again-btn:hover,
+.start-again-btn:focus {
+    background: #808080;
+}
+
