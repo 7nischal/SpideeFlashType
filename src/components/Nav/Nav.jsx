@@ -1,21 +1,21 @@
 import React from "react";
-import logo from './../../assets/logo.png';
+import logo from './../../assets/logoo.jpg';
 import "./Nav.css";
 
 const Nav = () => {
     return (
         <div className="nav-container">
             <div className="nav-left">
-                <img className="flash-logo" src={logo} alt="logo" />
-                <p className="flash-logo-text">FlashType</p>
+                <img className="spider-logo" src={logo} alt="logo" />
+                <p className="spider-logo-text">SpideeFlashType</p>
             </div>
             <div className="nav-right">
                 <a
                     target="_blank"
                     className="nav-aam-link"
-                    href="https://github.com/aaronsiim"
+                    href="https://github.com/7nischal"
                     rel="noreferrer"
-                >AAM</a>
+                >Nischal</a>
             </div>
         </div>
     )

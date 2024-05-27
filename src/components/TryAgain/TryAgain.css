@@ -36,29 +36,3 @@
     transition: background-color 0.2s;
 }
 
-.start-again-btn {
-    background: #3e4248;
-}
-
-.start-again-btn:hover,
-.start-again-btn:focus {
-    background: #808080;
-}
-
-.share-btn {
-    background: #3b5998;
-}
-
-.share-btn:hover,
-.share-btn:focus {
-    background: #5d7dc4;
-}
-
-.tweet-btn {
-    background: #1da1f2;
-}
-
-.tweet-btn:hover,
-.tweet-btn:focus {
-    background: #8faef3;
-}

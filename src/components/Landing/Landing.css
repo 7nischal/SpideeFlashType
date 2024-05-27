@@ -23,6 +23,7 @@
 
 .flash-image {
     width: 40vw;
+    height: 50vw;
 }
 
 @media (max-width: 800px) {

@@ -18,6 +18,7 @@ const DefaultState = {
     testInfo: [],
 };
 
+
 class App extends React.Component {
     state = DefaultState;
 
@@ -121,12 +122,12 @@ class App extends React.Component {
 
         // Make a copy of testInfo
         const testInfo = this.state.testInfo;
-        if (!(index == this.state.selectedParagraph.length - 1))
+        if (!(index === this.state.selectedParagraph.length - 1))
             testInfo[index + 1].status = "notAttempted";
 
 
         // Check for the correct typed letter
-        const isCorrect = inputValue[index] == testInfo[index].textLetter;
+        const isCorrect = inputValue[index] === testInfo[index].testLetter;
 
         // Updated the testInfo 
         testInfo[index].status = isCorrect ? "correct" : "incorrect";
@@ -145,7 +146,6 @@ class App extends React.Component {
         console.log("Test info - ", this.state.testInfo);
         return (
             <div className="app">
-
                 <Nav />
 
                 <Landing />
@@ -163,7 +163,6 @@ class App extends React.Component {
                 />
 
                 <Footer />
-
             </div>
         )
     }

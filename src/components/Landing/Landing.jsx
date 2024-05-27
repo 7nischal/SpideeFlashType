@@ -1,6 +1,6 @@
 import React from "react";
 import './Landing.css';
-import flash from "./../../assets/hero.png";
+import flash from "./../../assets/spidee.jpg";
 import Typewriter from 'typewriter-effect';
 
 
