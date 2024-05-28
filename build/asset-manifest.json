@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/7nischal/static/css/main.4bd8a449.css",
+    "main.js": "/7nischal/static/js/main.12a5817f.js",
+    "static/media/spidee.jpg": "/7nischal/static/media/spidee.75e3b95628a1ad142d88.jpg",
+    "static/media/logoo.jpg": "/7nischal/static/media/logoo.c79b4a2356461773b7af.jpg",
+    "index.html": "/7nischal/index.html",
+    "main.4bd8a449.css.map": "/7nischal/static/css/main.4bd8a449.css.map",
+    "main.12a5817f.js.map": "/7nischal/static/js/main.12a5817f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bd8a449.css",
+    "static/js/main.12a5817f.js"
+  ]
+}
