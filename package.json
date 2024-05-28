@@ -13,12 +13,8 @@
     "typewriter-effect": "^2.19.0",
     "web-vitals": "^2.1.4"
   },
-  
-    "scripts": {
-      "prebuild": "chmod +x node_modules/.bin/react-scripts",
-      "build": "react-scripts build"
-    },
   "scripts": {
+    "prebuild": "chmod +x node_modules/.bin/react-scripts",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -32,11 +28,6 @@
       "react-app/jest"
     ]
   },
-  
-    "dependencies": {
-      "react-scripts": "latest"
-    },
-  
   "browserslist": {
     "production": [
       ">0.2%",
